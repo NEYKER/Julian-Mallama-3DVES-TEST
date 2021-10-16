@@ -107,3 +107,103 @@ Received Import Request.
   path: Assets/ExampleAssets/Textures/Concrete/Ground_MetallicOcculusionSmoothness.tif
   artifactKey: Guid(a8d38587573a5f34c91c4ae0fbd8bfef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/ExampleAssets/Textures/Concrete/Ground_MetallicOcculusionSmoothness.tif using Guid(a8d38587573a5f34c91c4ae0fbd8bfef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5021390ae327cd963884082e6cd79b9d') in 0.024625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 191.914859 seconds.
+  path: Assets/Scripts/SimpleCameraController.cs
+  artifactKey: Guid(be76e5f14cfee674cb30b491fb72b09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SimpleCameraController.cs using Guid(be76e5f14cfee674cb30b491fb72b09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce042a7c2d0fd6a97a92c965903f2cef') in 0.023458 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003498 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.122 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 155.2 MB.
+System memory in use after: 152.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4440.
+Total: 8.288400 ms (FindLiveObjects: 0.543400 ms CreateObjectMapping: 0.506000 ms MarkObjects: 4.638300 ms  DeleteObjects: 2.598400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 92.631388 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(02a3527b6b33a924e8ec66aa805ea717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(02a3527b6b33a924e8ec66aa805ea717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c0377f5c7a27db7397236c6e6c0c51') in 0.009031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.538829 seconds.
+  path: Assets/Scripts/Ditto
+  artifactKey: Guid(c7c0d09e7e2a7234193c9981db1063fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ditto using Guid(c7c0d09e7e2a7234193c9981db1063fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948247e1b654afbc37e0c8f94740522e') in 0.007445 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.284167 seconds.
+  path: Assets/Settings/UniversalRP-HighQuality.asset
+  artifactKey: Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-HighQuality.asset using Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1abd40ce52cd67e1fe294f2e9af938e') in 0.019974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.808592 seconds.
+  path: Assets/Settings/UniversalRP-HighQuality.asset
+  artifactKey: Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-HighQuality.asset using Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c5fcc0e20ad7bcf94eb5afd7463f382') in 0.002750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.242067 seconds.
+  path: Assets/Settings/UniversalRP-HighQuality.asset
+  artifactKey: Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-HighQuality.asset using Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124c76c9d979b3a7c272a0f10f14eee9') in 0.006929 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.877227 seconds.
+  path: Assets/Settings/UniversalRP-HighQuality.asset
+  artifactKey: Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings/UniversalRP-HighQuality.asset using Guid(19ba41d7c0026c3459d37c2fe90c55a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62756a8e9c137bfb8613f7374e53b338') in 0.004184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.293414 seconds.
+  path: Assets/Scripts/CameraLookController.cs
+  artifactKey: Guid(19b92e5637e9f0747aebdd9e282c1499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraLookController.cs using Guid(19b92e5637e9f0747aebdd9e282c1499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f750e8291ff9dead90982408b7a9c1c6') in 0.031064 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003647 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.999 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3915 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 155.2 MB.
+System memory in use after: 152.5 MB.
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 4444.
+Total: 6.429200 ms (FindLiveObjects: 0.722500 ms CreateObjectMapping: 0.975800 ms MarkObjects: 2.423400 ms  DeleteObjects: 2.280500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.625535 seconds.
+  path: Assets/Scripts/CameraLookController.cs
+  artifactKey: Guid(19b92e5637e9f0747aebdd9e282c1499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraLookController.cs using Guid(19b92e5637e9f0747aebdd9e282c1499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d758df804f343ddaad4763daa214f70') in 0.023074 seconds 
