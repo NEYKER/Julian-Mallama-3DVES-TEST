@@ -207,3 +207,90 @@ Received Import Request.
   path: Assets/Scripts/CameraLookController.cs
   artifactKey: Guid(19b92e5637e9f0747aebdd9e282c1499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/CameraLookController.cs using Guid(19b92e5637e9f0747aebdd9e282c1499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d758df804f343ddaad4763daa214f70') in 0.023074 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003727 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.947 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3914 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 155.2 MB.
+System memory in use after: 152.6 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 4447.
+Total: 13.445200 ms (FindLiveObjects: 0.796800 ms CreateObjectMapping: 0.744400 ms MarkObjects: 9.152900 ms  DeleteObjects: 2.747400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 740.570157 seconds.
+  path: Assets/Scripts/CameraLookController.cs
+  artifactKey: Guid(19b92e5637e9f0747aebdd9e282c1499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraLookController.cs using Guid(19b92e5637e9f0747aebdd9e282c1499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f84549baa35cc83cac1f0d79beb6722') in 0.024394 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005720 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3914 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 155.2 MB.
+System memory in use after: 152.6 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 4450.
+Total: 5.231600 ms (FindLiveObjects: 0.444600 ms CreateObjectMapping: 0.280800 ms MarkObjects: 2.934800 ms  DeleteObjects: 1.570300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003619 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.08 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.221 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3914 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 155.3 MB.
+System memory in use after: 152.6 MB.
+
+Unloading 44 unused Assets to reduce memory usage. Loaded Objects now: 4453.
+Total: 3.149100 ms (FindLiveObjects: 0.281000 ms CreateObjectMapping: 0.194800 ms MarkObjects: 1.608100 ms  DeleteObjects: 1.064400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 268.706116 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(36e279d3440e0ff45a6226fa5d3c2b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(36e279d3440e0ff45a6226fa5d3c2b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9aa447307844fbf1d472b827f5d06331') in 0.019545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.373481 seconds.
+  path: Assets/Prefabs/Ditto.prefab
+  artifactKey: Guid(96a502ef6a25b68439c4095ca3d87680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Ditto.prefab using Guid(96a502ef6a25b68439c4095ca3d87680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4194aff3399500a21ba21537c0adc42') in 0.263750 seconds 
