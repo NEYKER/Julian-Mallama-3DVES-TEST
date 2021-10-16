@@ -14,7 +14,7 @@ public class GetInfo : MonoBehaviour
     {
         textNamePokemon.text = "Loading...";
         string url = "https://pokeapi.co/api/v2/pokemon/ditto";
-        using (UnityWebRequest request = UnityWebRequest.Get(url))
+        UnityWebRequest request = UnityWebRequest.Get(url);
         {
             yield return request.SendWebRequest();
 
