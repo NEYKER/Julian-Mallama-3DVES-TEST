@@ -53,6 +53,6 @@ public class CameraLookController : MonoBehaviour
             zoom += zoomAmount * Time.deltaTime;
         }
 
-        zoom = Mathf.Clamp(zoom, 0.8f, 20f);
+        zoom = Mathf.Clamp(zoom, 0.8f, 10f);
     }
 }
