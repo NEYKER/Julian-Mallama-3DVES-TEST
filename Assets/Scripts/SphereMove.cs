@@ -7,7 +7,7 @@ public class SphereMove : MonoBehaviour
     private void Awake()
     {
         sphere = gameObject;
-        sphere.GetComponent<Rigidbody>().velocity = transform.forward * 20;
+        sphere.GetComponent<Rigidbody>().velocity = transform.forward * 10;
     }
 
     void OnBecameInvisible()

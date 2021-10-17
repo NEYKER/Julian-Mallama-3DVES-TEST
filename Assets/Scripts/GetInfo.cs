@@ -26,7 +26,7 @@ public class GetInfo : MonoBehaviour
 
     Quaternion initialRotation = new Quaternion(0, 0, 0, 0);
 
-    public void Start() => StartCoroutine(GetApiDataCoroutine());
+    public void Awake() => StartCoroutine(GetApiDataCoroutine());
     IEnumerator GetApiDataCoroutine() 
     {
         #region Request & Set infoData
